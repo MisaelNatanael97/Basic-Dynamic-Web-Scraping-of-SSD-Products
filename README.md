@@ -4,4 +4,4 @@ This notebook demonstrates the use of Selenium and BeautifulSoup packages in pyt
 
 Chrome is used as the web browser in this notebook. To run this code, Chrome webdriver are needed (download here [Chrome webdriver](https://chromedriver.chromium.org/downloads)).
 
-Just open the dynamic-web-scraping-of-SSD-products.ipynb file (can be accessed via Google Colab).
+Just open the [dynamic-web-scraping-of-SSD-products.ipynb](https://github.com/MisaelNatanael97/Basic-Dynamic-Web-Scraping-of-SSD-Products/blob/master/dynamic-web-scraping-of-SSD-products.ipynb) file (can be accessed via Google Colab).
